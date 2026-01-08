@@ -1,0 +1,37 @@
+body{
+    font-family:Arial,sans-serif;
+    margin:0;
+    padding:0;
+    backgroud-color:#f4f4f4;
+}
+header{
+    background-color:#2e3e50;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+section{
+    background:white;
+    margin:20px;
+    padding:20px;
+    border-radius:8px;
+}
+h2{
+    color:#2e3e50;
+}
+.skills ul{
+    list-style-type:square;
+    padding-left:20px;
+}
+.project-box{
+    background-color:#ecf0f1;
+    padding:15px;
+    margin-bottom:10px;
+    border-radius:5px;
+}
+footer{
+    background-color:#2e3e50;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
